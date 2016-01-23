@@ -1,14 +1,26 @@
-layout_spectrum: 0.8172043
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5519713
 color:
-  saturation: 0.4677419
-  brandStrength: 0.6810036
-  lightness: 0.5412186
+  saturation: 0
+  lightness: 0.7293907
+  brandStrength: 0.04480287
   brandColors:
     - '#040402'
     - '#4A4C4C'
     - '#FFA466'
     - '#FFFFFC'
     - '#54F1D0'
-  rhythmicContrast: 0.3691756
-typography_spectrum: 0.5519713
+  rhythmicContrast: 0.8046595
+layout_spectrum: 1
 name: IOSHOOT
