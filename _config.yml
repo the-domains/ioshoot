@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5519713
 color:
   saturation: 0
-  lightness: 0.7293907
   brandStrength: 0.04480287
+  lightness: 0.7293907
   brandColors:
-    - '#040402'
-    - '#4A4C4C'
-    - '#FFA466'
-    - '#FFFFFC'
-    - '#54F1D0'
+    - '#050B05'
+    - '#545B65'
+    - '#CFAA7F'
+    - '#FFE09A'
+    - '#FFFFFF'
   rhythmicContrast: 0.8046595
+typography_spectrum: 0.5519713
 layout_spectrum: 1
 name: IOSHOOT
