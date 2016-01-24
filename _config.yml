@@ -12,15 +12,14 @@ collections:
       path: '/:title/'
 typography_spectrum: 0.5519713
 color:
-  saturation: 0.5537634
-  brandStrength: 0
-  rhythmicContrast: 0.5412186
+  saturation: 0
+  brandStrength: 0.5376344
+  lightness: 0
   brandColors:
-    - '#050B05'
-    - '#545B65'
-    - '#CFAA7F'
-    - '#FFE09A'
-    - '#FFFFFF'
-  lightness: 0.5358423
-layout_spectrum: 0
+    - '#EAD1B2'
+    - '#3A2E30'
+    - '#87645E'
+    - '#9B999A'
+  rhythmicContrast: 0
+layout_spectrum: 1
 name: IOSHOOT
