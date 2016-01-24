@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.5519713
 color:
   saturation: 0.5537634
   brandStrength: 0
-  lightness: 0.5358423
+  rhythmicContrast: 0.5412186
   brandColors:
     - '#050B05'
     - '#545B65'
     - '#CFAA7F'
     - '#FFE09A'
     - '#FFFFFF'
-  rhythmicContrast: 0.5412186
-layout_spectrum: 0.3207885
+  lightness: 0.5358423
+layout_spectrum: 0
 name: IOSHOOT
