@@ -12,15 +12,15 @@ collections:
       number: 10
 typography_spectrum: 0.5519713
 color:
-  saturation: 0.3548387
-  lightness: 0.6792115
+  saturation: 0.5573477
   brandStrength: 1
+  lightness: 0.8996416
   brandColors:
     - '#050B05'
     - '#545B65'
     - '#CFAA7F'
     - '#FFE09A'
     - '#FFFFFF'
-  rhythmicContrast: 0.8584229
-layout_spectrum: 0.8602151
+  rhythmicContrast: 0
+layout_spectrum: 1
 name: IOSHOOT
